@@ -16,5 +16,5 @@ Simply go to https://github.com/filtered-ai/boilerplate-code-repo/tree/main/full
 1. Create a new folder under [boilerplate-code-repo/full-stack-engineer/](https://github.com/filtered-ai/boilerplate-code-repo/full-stack-engineer/), for example `/newCode-app`
 2. Update the default code under `/newCode-app`.
 3. Create a `newCode-app.sh` startup script on main-app side `Filtered/api-service/FilteredSharedFiles/workspace-scripts/vnc/auto-start-apps/newCode-app.sh`
-4. Create a new document on `rdsAutoStartAppCollection` and `workspaceLibCollection` by following the same pattern below.
+4. Create a new document on `rdsAutoStartAppCollection` and `workspaceLibCollection` by following the same pattern [below](https://github.com/filtered-ai/FilteredSharedFiles/pull/872).
 5. All set.
